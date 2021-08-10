@@ -7,14 +7,6 @@ x = 42
 deep_thought_status = "not finished"
 ```
 
-# Invoking Constructors
-
-No "new" key word is required.
-
-```
-heart_of_gold = InfinityDrive()
-```
-
 # Declaring Classes
 
 ```
@@ -25,3 +17,28 @@ class MyClass:
     def function:
         return 42
 ```
+
+# Invoking Constructors
+
+No "new" key word is required.
+
+```
+heart_of_gold = InfinityDrive()
+```
+# Conditionals
+
+```
+    if num > 0:
+      return 1
+    elif num == 0:
+      return 0
+    else:
+      return -1
+```     
+
+# List Comprehension
+
+```
+abs_distances = [abs(pt) for ____ in ____]
+```
+
