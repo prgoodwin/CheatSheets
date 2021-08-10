@@ -25,6 +25,7 @@ No "new" key word is required.
 ```
 heart_of_gold = InfinityDrive()
 ```
+<<<<<<< HEAD
 # Conditionals
 
 ```
@@ -42,3 +43,5 @@ heart_of_gold = InfinityDrive()
 abs_distances = [abs(pt) for ____ in ____]
 ```
 
+=======
+>>>>>>> 5ef33d8faf17906a8c87ea22eafc6d4b72b78234
