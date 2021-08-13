@@ -6,6 +6,3 @@ I have a PhD in Computer Science (HCI), with a strong focus on user data modelin
 
 At this time, I am building a foundation of resources that will work as foundation and resources as I build tutorials, demo technologies, and create portfolio projects.
 
-# Table of Contents
-
-- [Mark Down](markdown.md)
