@@ -8,4 +8,8 @@ At this time, I am building resources that will work as foundation as I write tu
 
 # Table of Contents
 
+- [Resources](resources.md)
 - [MarkDown](markdown.md)
+- [Neuralnets](neuralnets.md)
+- [Python](python.md)
+- [Pandas](pandas.md)
